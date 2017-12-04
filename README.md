@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 4, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Kelsea Moore)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This project uses AJAX and JSON to create an interactive application about movies using TMDB.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kelseamoore.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. AJAX (Asynchronous JavaScript and XML) uses XML, HTML, CSS and JavaScript to create web applications with interactive features that display without the page reloading.
+2. JSON (JavaScript Object Notation) is a scripting language that is used to transmit data from a web server to a web application and is easy for users to read and write. 
+3. A web client can request and receive data from a server using two HTTP requests: GET(), used to request, and POST(), used to receive.
